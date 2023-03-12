@@ -1,13 +1,16 @@
 import {useState} from 'react';
-import './App.css';
+import './index.css';
 import ColorBox from './ColorBox';
 import ColorInput from './ColorInput';
 function App() {
   const [color,setColor]=useState('');
+  const[hexValue,setHexValue]=useState('')
+  const [isDarkText,setIsDarkText]=useState(true);
   return (
     <div className='container'>
-    <ColorBox color={color} />
-    <ColorInput color={color} setColor={setColor}/>
+    <ColorBox color={color} hexValue={hexValue} isDarkText={isDarkText}/>
+    <ColorInput color={color} setColor={setColor} setHexValue={setHexValue} 
+    isDarkText={isDarkText} setIsDarkText={setIsDarkText}/>
     </div>
 
     
