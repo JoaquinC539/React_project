@@ -8,5 +8,8 @@
 <li>Learn most common hooks<li>Done!
 <li>Learn how to do vanilla JS API request (fetch->then/try,catch)</li> Done!
 <li>Learn basic-advanced routing</li> Done!
-<li>Learn API request with Redux<li>
-<li>
+<li>Learn API request with Axios<li> Done!
+<li>Learn Custom Hooks</li> Done!
+<li>Learn and define useAxiosFetch hook </li>
+<li>Learn State Management (useConext)</li>
+<li>Learn Redux </li>
