@@ -7,6 +7,6 @@
 <li>Learn how two make one way data bind</li>Done!
 <li>Learn most common hooks<li>Done!
 <li>Learn how to do vanilla JS API request (fetch->then/try,catch)</li> Done!
-<li>Learn basic-advanced routing</li>
+<li>Learn basic-advanced routing</li> Done!
 <li>Learn API request with Redux<li>
 <li>
